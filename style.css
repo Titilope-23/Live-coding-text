@@ -11,7 +11,9 @@
     width: 100% !important;
 }
 
-
+.btn-5:hover{
+    background-color: #0802a3 !important;
+}
 
 /* section-1 */
 .section-1{

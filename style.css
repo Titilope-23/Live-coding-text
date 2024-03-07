@@ -231,3 +231,19 @@ margin-top: 25%;
         height: 5vh;
         width: 100%;
     }
+
+    .icon{
+        text-align: center;
+    }
+
+    .section-7{
+        background-color:#0802a3;
+        height: 5vh;
+        width: 100%;
+        color: white;
+
+    }
+
+    .text-3{
+        text-align: center;
+    }
